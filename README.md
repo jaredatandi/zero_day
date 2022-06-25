@@ -1,4 +1,4 @@
-## Testing Vagrant#
+## Testing Vagrant ##
 
 * some cool things
 >>that vagrant is amazing
